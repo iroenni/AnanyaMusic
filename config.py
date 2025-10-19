@@ -9,12 +9,12 @@ load_dotenv()
 # 📲 Telegram & API Credentials
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-OWNER_ID = int(os.getenv("OWNER_ID", None))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_NoHope")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "Ananya_VcMusic_Bot")
+API_ID = int(os.getenv("14681595"))
+API_HASH = os.getenv("a86730aab5c59953c424abb4396d32d5")
+BOT_TOKEN = os.getenv("8213746990:AAG-jpTTnok-VWRlMb02J5w2yFmastnhljQ")
+OWNER_ID = int(os.getenv("7970466590", None))
+OWNER_USERNAME = os.getenv("nautaii", "WTF_NoHope")
+BOT_USERNAME = os.getenv("musyc_nautaii_bot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
